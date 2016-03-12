@@ -1,4 +1,4 @@
-package cn.njust.service;
+package cn.njust.user.service;
 
 public interface UserService {
 
